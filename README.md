@@ -1,0 +1,1 @@
+Meu gamemode de SAMP.
